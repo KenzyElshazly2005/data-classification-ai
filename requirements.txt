@@ -1,0 +1,6 @@
+```txt id="req_ml"
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
