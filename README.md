@@ -61,20 +61,39 @@ We use the famous Iris dataset:
 - Scikit-learn
 
 ---
-
 ## ▶️ How to Run
 
 ```bash
 python model.py
-````
+```
+
+---
+
+## 🖼️ Results / Screenshots
+
+Below are sample outputs from the project:
+
+![Screenshot 1](1.png)
+
+![Screenshot 2](2.png)
+
+![Screenshot 3](3.png)
+
+![Screenshot 4](4.png)
+
+![Screenshot 5](5.png)
+
+![Screenshot 6](6.png)
+
+![Screenshot 7](7.png)
 
 ---
 
 ## 📌 Notes
 
-* Ensure all required libraries are installed
-* Dataset is built-in (no external files needed)
-* Results may vary slightly depending on random state
+- Ensure all required libraries are installed
+- Dataset is built-in (no external files needed)
+- Results may vary slightly depending on random state
 
 ---
 
