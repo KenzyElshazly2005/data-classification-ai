@@ -81,6 +81,3 @@ python model.py
 ## 👩‍💻 Author
 
 Kenzy Mohamed
-
-```
-
